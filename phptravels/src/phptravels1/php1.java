@@ -130,5 +130,4 @@ public class php1 {
 		   driver.findElement(By.xpath(".//*[@id='HOTELS']/div/form/div[6]/div/button")).click();   */
 	       
 	}
-	This is my new change
 }
